@@ -76,8 +76,11 @@ public class CubeProg : MonoBehaviour
 ## Scene 1:
 ![image](https://github.com/Rakshithadevi/Redirecting-the-scene/assets/94165326/44a16bab-ad0c-4e72-a290-2015c2938da4)
 ## After the Ball Hit the cube:
-![image](https://github.com/Rakshithadevi/Redirecting-the-scene/assets/94165326/62ff4b09-6440-49c0-8b41-0f024b7efc06)
+![image](https://github.com/Rakshithadevi/Redirecting-the-scene/assets/94165326/95a771e9-c957-4a19-82f0-82c19aab245e)
+
 ## Redirected scene 2:
+![image](https://github.com/Rakshithadevi/Redirecting-the-scene/assets/94165326/82c868d5-baad-489b-beaa-e15c10392560)
+
 
 
 ## Result:
